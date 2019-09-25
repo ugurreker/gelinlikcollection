@@ -289,7 +289,7 @@ if ( !function_exists( 'envo_blog_generate_construct_footer' ) ) :
 			<span class="sep"> | </span>
 			<?php
 			/* translators: %1$s: Envo Blog name with envothemes.com URL */
-			printf( esc_html__( 'Theme: %1$s', 'envo-blog' ), '<a href="' . esc_url( 'https://ugurreker.github.io/ugurreker/' ) . '">ugurreker</a>' );
+			printf( esc_html__( 'Tema: %1$s', 'envo-blog' ), '<a href="' . esc_url( 'https://ugurreker.github.io/ugurreker/' ) . '">ugurreker</a>' );
 			?>
 		</p> 
 		<?php
